@@ -1,1 +1,16 @@
+# Directories
+output/
+hindi_output/
+*_samples/
+*_evaluation/
+reference_audio/
+model_checkpoints/
+__pycache__/
 
+# Files
+*.pyc
+*.pth
+*.wav
+*.mp3
+*.log
+*.json
